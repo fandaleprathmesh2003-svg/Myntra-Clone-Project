@@ -1,12 +1,7 @@
 # Myntra Clone Project
 
 A responsive front-end clone of the popular e-commerce platform **Myntra**.  
-Built using HTML & CSS (and any other technologies you used) to mimic the look and feel of the original site for learning/practice purpose.
-
-## Demo  
-(If you have a live demo or screenshots, include them here)  
-![Home Page Screenshot](path/to/screenshot-home.png)  
-![Product Page Screenshot](path/to/screenshot-product.png)  
+Built using HTML & CSS (and any other technologies you used) to mimic the look and feel of the original site for learning/practice purpose.  
 
 ## Table of Contents  
 - [Features](#features)  
